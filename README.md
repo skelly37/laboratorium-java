@@ -1,1 +1,2 @@
-# java_lab1
+# Laboratorium Java
+- [Lab1](./lab1)
