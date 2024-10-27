@@ -43,7 +43,7 @@ Class name: Shape
 
 # Zadanie 3
 ## Kod
-[Main.java](./src/Main.java)
+[Main.java](srcain.java)
 
 ## Wynik testowego uruchomienia dla trójkąta i prostokąta
 ```
