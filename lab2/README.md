@@ -14,3 +14,4 @@ Exception in thread "main" java.lang.IllegalArgumentException: Wszystkie kanaly 
 ```
 
 ## Zrzut ekranu
+<img width="1319" alt="Screenshot 2024-11-17 at 11 14 39 AM" src="https://github.com/user-attachments/assets/e2f4d7e8-c42a-44b1-bc83-a093e6da8e82">
