@@ -64,7 +64,10 @@
 
 ## Zrzuty ekranu
 ### Main
+<img width="1822" alt="Screenshot 2024-11-20 at 8 41 07 PM" src="https://github.com/user-attachments/assets/b13af136-fe9e-407c-88f3-9e54c99bfa7b">
 
 ### Testy
+<img width="1822" alt="Screenshot 2024-11-20 at 8 40 49 PM" src="https://github.com/user-attachments/assets/f7c5228b-ed90-49c0-ba71-83df726d47de">
 
 ### Pokrycie testami
+<img width="778" alt="Screenshot 2024-11-20 at 8 40 19 PM" src="https://github.com/user-attachments/assets/16c4b011-4efc-455c-9cb7-1dac6d714582">
