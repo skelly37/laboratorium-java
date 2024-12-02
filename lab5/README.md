@@ -51,9 +51,10 @@ Hibernate: select t1_0.id,t1_0.a,t1_0.b,t1_0.c,t1_0.alpha,t1_0.blue,t1_0.green,t
 
 ### Zrzuty ekranu z klienta HTTP
 #### Utworzenie Rectangle
+<img width="1593" alt="1" src="https://github.com/user-attachments/assets/ceb87b82-b311-4435-94a8-7ba4111bdb9c">
 
 #### Utworzenie Triangle
-
+<img width="1637" alt="2" src="https://github.com/user-attachments/assets/7f20e226-93f0-42fc-bf51-67063060e4e8">
 
 #### Pobranie dostępnych obiektów
-
+<img width="1547" alt="3" src="https://github.com/user-attachments/assets/d0cf658e-802a-4b1e-ab79-0ba78bf3a529">
